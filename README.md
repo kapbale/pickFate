@@ -1,4 +1,4 @@
-最新说明：因为软件被别人放到其它平台出售，所以就停止更新这个版本的切牌了，不过有能力的依旧可以自行更新，不想自己更新的加群会有更新版本的切牌
+## 最新说明：因为软件被别人放到其它平台出售，所以就停止开源代码了，不过有能力的依旧可以自行更新，不想自己更新的[TG群(很空)](t.me/pickAFate) [QQ群(人多有点满了)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Okd2GD-](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Okd2GD-paHivHmPCH3HejuxztqUYlscU&authKey=l0grOm6QHx89Lc09DnpWrQbhFkdW2fxKVxJMY7RvvBX%2BGnxHvidgohivYryzO3Gu&noverify=0&group_code=628543673))会一直保持免费使用
 # pickFate
 英雄联盟卡牌大师切牌工具  
 ![image](https://github.com/dearkiku/pickFate/blob/main/temp/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250617150410.png)
