@@ -18,15 +18,15 @@
 - 我不常在GITHUB上线，可以[点击链接加入QQ群聊【玄间】反馈BUG](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Okd2GD-paHivHmPCH3HejuxztqUYlscU&authKey=l0grOm6QHx89Lc09DnpWrQbhFkdW2fxKVxJMY7RvvBX%2BGnxHvidgohivYryzO3Gu&noverify=0&group_code=628543673) 群号：628543673
 ### 等待添加的功能
 - [ ] 大招一段/二段 自动切牌
-- [ ] 是否进入游戏判断
 - [ ] 识别到英雄自动开启切牌
 - [ ] 技能CALL(封号)
 - [ ] HOOK(封号)
 
 ### 已经完成的功能
+- [x] 是否进入游戏判断
 - [x] 保存按键配置 // 2025-06-17
 - [x] 自定义快捷键 // 英文键/数字键
-- [x] 切指定颜色牌 // 秒切黄牌 秒切金牌 秒切蓝牌 秒切红牌 : )
+- [x] 切指定颜色牌 // 金牌 蓝牌 红牌 : )
 - [x] 防截屏/录制 // Windows 10版本 > 2004
 - [x] 判断技能是否在冷却'P'
 - [x] CTRL按下时不切牌
